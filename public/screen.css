@@ -1,0 +1,16 @@
+html {
+  text-size-adjust: 100%;
+}
+
+h1 {
+  color: #ff5005;
+}
+
+body {
+  background-color: #fff390;
+  margin: 0;
+  font: 16px / 1 sans-serif;
+}
+p {
+  color: #666f32;
+}
